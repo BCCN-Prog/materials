@@ -52,3 +52,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# I Python Notebook checkpoints
+.ipynb_checkpoints
+
+# Intermediate data
+*~
